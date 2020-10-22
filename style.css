@@ -1,0 +1,18 @@
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+Header {
+  color: rgb(75, 26, 96);
+  font-size: 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background-color: chartreuse;
+}
+
+ul {
+  font-family: 'Open Sans', sans-serif;
+  color: dodgerblue;
+}
